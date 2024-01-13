@@ -20,7 +20,8 @@ class Settings:
         self.fleet_drop_speed = 10
 
         ## ship statics
-        self.ship_left = 3
+        # self.ship_left = 3
+        self.ship_left = 1
 
         self.speedup_scale = 1.1
         self.initialise_dynamic_settings()
